@@ -13,7 +13,7 @@
   Table Name | Purpose
   -----------| -------
   LXE_LOG    | See what SAP objects have been translated by whom and when
-  DD04T      | Look up translations for a specific data element for multiple languages at the same time
+  DD04T      | Look up translations for a specific data element for multiple languages at the same time, or proofread lots of data elements for a specific name range at the same time
   TSTCT      | Find out the correct transaction code for a specific activity
   CVERS      | Find out which software is installed in this SAP system
   OBJSL      | Find out which tables are so big that they are translated as logical objects
